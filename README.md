@@ -1,35 +1,35 @@
 # 👋 About-Me
+
 # Hi, I'm Emmanuel Tobi Alabi
 
-# Expertise: 
-• Seasoned Graphics Designer with proven track record🎨 
-• Digital Marketing Expert 📈 
-• Microsoft Excel 📊 
-• Educational Writing 📚
-• Power BI 📊 
-• Coreldraw 
-• Photoshop 
-• Canva
 
-# Services: 
-Graphics design (logos, brochures, etc.)  
-Digital marketing (social media management, SEO, etc.) 
-Data analysis and visualization 
-Educational content creation
+# 💼 Expertise: 
+## • Seasoned Graphics Designer with proven track record🎨 
+## • Digital Marketing Expert 📈  • Microsoft Excel 📊  • Educational Writing 📚 • Power BI 📊  • Coreldraw  • Photoshop  • Canva
 
-# Learning:
-SQL 💻 , 
-Tableau 📈 
-Cyber Security 🔒
+# 💡 Services: 
+## • Graphics design (logos, brochures, etc.)  
+## • Digital marketing (social media management, SEO, etc.) 
+## • Data analysis and visualization 
+## • Educational content creation
 
-# Work Style:
-Collaborative and communicative 🤝
-Detail-oriented and organized 📝
-Creative problem-solver 💡
 
-# Values:
-Passionate about solving problems 🤔
-Dedicated to delivering high-quality solutions 💡
+# 📚 Learning:
+## • SQL 💻  
+## • Tableau 📈 
+## • Cyber Security 🔒
 
-# Get in Touch:
-For collaborations, send an email to: alabiemmanuelt@gmail.com | +2348101961996 😊
+
+# ⤵️ Work Style:
+## • Collaborative and communicative 🤝
+## • Detail-oriented and organized 📝
+## Creative problem-solver 💡
+
+
+# 💪 Values:
+## • Passionate about solving problems 🤔
+## • Dedicated to delivering high-quality solutions 💡
+
+
+# 📫 Get in Touch:
+## ➡️ For collaborations, send an email to: alabiemmanuelt@gmail.com | +2348101961996 
