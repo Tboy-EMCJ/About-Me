@@ -1,6 +1,5 @@
 # 👋 About-Me
-
-# Hi, I'm Emmanuel Tobi Alabi
+Hi, I'm Emmanuel Tobi Alabi
 
 
 # 💼 Expertise: 
