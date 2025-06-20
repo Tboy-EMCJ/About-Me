@@ -4,32 +4,32 @@
 
 
 # 💼 Expertise: 
-## • Seasoned Graphics Designer with proven track record🎨 
-## • Digital Marketing Expert 📈  • Microsoft Excel 📊  • Educational Writing 📚 • Power BI 📊  • Coreldraw  • Photoshop  • Canva
+ • Seasoned Graphics Designer with proven track record🎨 
+ • Digital Marketing Expert 📈  • Microsoft Excel 📊  • Educational Writing 📚 • Power BI 📊  • Coreldraw  • Photoshop  • Canva
 
 # 💡 Services: 
-## • Graphics design (logos, brochures, etc.)  
-## • Digital marketing (social media management, SEO, etc.) 
-## • Data analysis and visualization 
-## • Educational content creation
+ • Graphics design (logos, brochures, etc.)  
+ • Digital marketing (social media management, SEO, etc.) 
+ • Data analysis and visualization 
+ • Educational content creation
 
 
 # 📚 Learning:
-## • SQL 💻  
-## • Tableau 📈 
-## • Cyber Security 🔒
+ • SQL 💻  
+ • Tableau 📈 
+ • Cyber Security 🔒
 
 
 # ⤵️ Work Style:
-## • Collaborative and communicative 🤝
-## • Detail-oriented and organized 📝
-## Creative problem-solver 💡
+ • Collaborative and communicative 🤝
+ • Detail-oriented and organized 📝
+ • Creative problem-solver 💡
 
 
 # 💪 Values:
-## • Passionate about solving problems 🤔
-## • Dedicated to delivering high-quality solutions 💡
+ • Passionate about solving problems 🤔
+ • Dedicated to delivering high-quality solutions 💡
 
 
 # 📫 Get in Touch:
-## ➡️ For collaborations, send an email to: alabiemmanuelt@gmail.com | +2348101961996 
+➡️ For collaborations, send an email to: alabiemmanuelt@gmail.com | +2348101961996 
